@@ -1,0 +1,35 @@
+
+.featuredarray
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.featuredmaindiv 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+     margin-top: 50px;
+}
+
+.featuredarray img
+{
+    width: 20%;
+}
+
+.featuredproductsdetails
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+

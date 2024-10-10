@@ -1,0 +1,58 @@
+.Contactmaindiv
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.contactmap
+{
+    width: 100%;
+}
+
+.contactform form
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+}
+
+
+.inp1 input{
+    width: 100%;
+    height: 40px;
+    font-size: 17px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.textinp textarea
+{
+    width: 100%;
+    font-size: 17px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.inpbutton input{
+   width: 100px;
+   height: 50px;
+   border: 1px solid black;
+   border-radius: 10px;
+   font-size: 17px;
+   color: white;
+   background-color: black;
+}
+
+.inpbutton input:hover{
+    cursor: pointer
+}

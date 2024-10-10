@@ -1,0 +1,38 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+/* .shareimg img
+{
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 15%;
+  margin-top: 50px;
+} */
+.sharemaindiv
+{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 30px;
+    
+}
+.TextShare{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.TextShare button
+{
+   width: 120px;
+   height: 50px;
+   font-size: 16px;
+   color: white;
+   /* border: 2px solid #5603fc; */
+   border-radius: 10px;
+   background-color: black;
+}

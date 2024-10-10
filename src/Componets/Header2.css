@@ -1,0 +1,24 @@
+.headerdiv
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: black;
+    height: 100px;
+
+}
+
+.headerdiv>div{
+    font-size: 20px;
+    /* color: #5603fc; */
+    margin-top: 30px;
+}
+
+
+.headerimg img
+{
+  width: 100%;
+ 
+}
+
