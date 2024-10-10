@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ecomerence-Website/static/css/main.5f135227.css",
+    "main.js": "/Ecomerence-Website/static/js/main.271fc91b.js",
+    "static/media/carasoul333.webp": "/Ecomerence-Website/static/media/carasoul333.d6ef346a594cfb394195.webp",
+    "static/media/familypic3.jpg": "/Ecomerence-Website/static/media/familypic3.bf60cee9840d5f6d979d.jpg",
+    "static/media/carasoul11.jpg": "/Ecomerence-Website/static/media/carasoul11.10b29bc9f58b100033f3.jpg",
+    "index.html": "/Ecomerence-Website/index.html",
+    "main.5f135227.css.map": "/Ecomerence-Website/static/css/main.5f135227.css.map",
+    "main.271fc91b.js.map": "/Ecomerence-Website/static/js/main.271fc91b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f135227.css",
+    "static/js/main.271fc91b.js"
+  ]
+}
